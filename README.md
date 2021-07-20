@@ -2,7 +2,7 @@
 - 👀 I’m interested in economics and education
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on learning data sciences
-- 📫 How to reach me ...
+- 📫 How to reach me can be reached anytime via email at shilvinawidi@gmail.com
 
 <!---
 shilwid/shilwid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
